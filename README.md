@@ -1,2 +1,2 @@
 # NodeJS-ToDo
-Learning
+Learning to create a todo app using NodeJS
